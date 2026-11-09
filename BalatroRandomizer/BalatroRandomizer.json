@@ -1,0 +1,16 @@
+{
+  "id": "BalatroRandomizer",
+  "name": "Balatro Randomizer",
+  "display_name": "Balatro Randomizer",
+  "author": [
+    "ZipperDash"
+  ],
+  "description": "Randomize Balatro and make every run unpredictable!",
+  "prefix": "brnd",
+  "main_file": "main.lua",
+  "version": "1.1.2",
+  "priority": 0,
+  "badge_colour": "7B61FF",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": []
+}
