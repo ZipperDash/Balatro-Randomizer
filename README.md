@@ -21,14 +21,14 @@ Instead of simply shuffling cards, **Balatro Randomizer** can change how the gam
 
 The mod includes several presets for different levels of chaos:
 
-**Lite Instability** — A small selection of randomization features with moderate ranges
-**Empty Wallet** — Money comes and goes. Mostly goes
-**Joker Lottery** — Your Jokers will decide for themselves what to do and when to do it
-**Parade of Planets** — A bit of cosmic randomness
-**All on Red** — More difficult and less predictable Blinds
-**Random Number Generator** — Experience numerical instability
-**Increased Difficulty** — Just try it
-**How, What and Why** — ???
+* **Lite Instability** — A small selection of randomization features with moderate ranges
+* **Empty Wallet** — Money comes and goes. Mostly goes
+* **Joker Lottery** — Your Jokers will decide for themselves what to do and when to do it
+* **Parade of Planets** — A bit of cosmic randomness
+* **All on Red** — More difficult and less predictable Blinds
+* **Random Number Generator** — Experience numerical instability
+* **Increased Difficulty** — Just try it
+* **How, What and Why** — ???
 
 You can also configure every randomization feature individually.
 
